@@ -49,6 +49,11 @@ Automating enterprise invoice, contract, and form extraction:
 * Benchmarking latency, context length, unit economics, and data sovereignty across Claude 3.5, Gemini 2.0 Flash, GPT-4o, and self-hosted Llama 3.3.
 * 🔗 **Read the full engineering guide**: [Choosing the Right LLM](https://kahollabs.in/insights/choosing-the-right-llm-openai-claude-gemini-llama)
 
+
+### 6. Modern Backend Architecture & Distributed Systems
+* Modular monoliths vs microservices, transactional outbox pattern, event streams, and multi-tier caching.
+* 🔗 **Read the full engineering guide**: [Modern Backend Architecture: Distributed Systems](https://kahollabs.in/insights/modern-backend-architecture-distributed-systems)
+
 ### 5. Enterprise AI Privacy & Security Guardrails
 * PII masking, local tokenization, prompt injection defense, and VPC isolation.
 * 🔗 **Read the full engineering guide**: [Enterprise AI Privacy & Security](https://kahollabs.in/insights/enterprise-ai-privacy-and-security-guardrails)
