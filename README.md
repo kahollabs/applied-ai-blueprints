@@ -50,6 +50,10 @@ Automating enterprise invoice, contract, and form extraction:
 * 🔗 **Read the full engineering guide**: [Choosing the Right LLM](https://kahollabs.in/insights/choosing-the-right-llm-openai-claude-gemini-llama)
 
 
+### 7. AI vs. Human: Why Pure AI Cannot Replace Senior Engineering Craftsmanship
+* Evaluating the boundary between AI syntax autocomplete and senior human engineering: distributed state concurrency, defensive threat modeling, native mobile silicon constraints, and domain nuance.
+* 🔗 **Read the full engineering guide**: [AI vs. Human in Software Engineering](https://kahollabs.in/insights/ai-vs-human-software-engineering) · [Read Blueprint Markdown](blueprints/ai-vs-human-software-engineering.md)
+
 ### 6. Modern Backend Architecture & Distributed Systems
 * Modular monoliths vs microservices, transactional outbox pattern, event streams, and multi-tier caching.
 * 🔗 **Read the full engineering guide**: [Modern Backend Architecture: Distributed Systems](https://kahollabs.in/insights/modern-backend-architecture-distributed-systems)
